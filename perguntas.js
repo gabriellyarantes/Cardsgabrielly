@@ -6,7 +6,7 @@ criaCartao(
 
 criaCartao(
     'Sociedade dos poetas mortos',
-    'O que diria o Capitão sobre porque escrevemos poesia?',
+    'O que diria o Capitão sobre por que escrevemos poesia?',
     'Não lemos e escrevemos poesia porque é "fofo", lemos e escrevemos poesia porque somos membros da raça humana, e a raça humana está cheia de paixão'
 )
 
