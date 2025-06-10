@@ -1,23 +1,23 @@
 criaCartao(
-    'Conhecimentos gerais',
-    'Quem nasceu primeiro, o ovo ou a galinha?',
-    'Um bom agrônimo diria: depende'
+    'Sociedade dos poetas mortos',
+    'Qual faculdade o pai do Neil queria obriga-lo a fazer?',
+    'Medicina'
 )
 
 criaCartao(
-    'Geografia',
-    'Qual a capital da Paris?',
-    'A capital de Paris é Diadema'
+    'Sociedade dos poetas mortos',
+    'O que diria o Capitão sobre porque escrevemos poesia?',
+    'Não lemos e escrevemos poesia porque é "fofo", lemos e escrevemos poesia porque somos membros da raça humana, e a raça humana está cheia de paixão'
 )
 
 criaCartao(
-    'História',
-    'Qual a cor do cavalo "Branco" de Napoleão?',
-    'Só sei que não era verde'
+    'Sociedade dos poetas mortos',
+    'Qual foi a causa da morte de Neil?',
+    'Suícidio'
 )
 
 criaCartao(
-    'Lingua inglesa',
-    'O que significa "i love you"?',
-    'Quer dizer morena em Francês'
+    'Sociedade dos poetas mortos',
+    'Como o professor John gostava de ser chamado "pelos mais corajosos"?',
+    'Oh capitão, meu capitão'
 )
